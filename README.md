@@ -17,13 +17,14 @@
 
 ---
 
-## 📊 Selected Visuals
-| Insight | Chart |
-|---|---|
-| MAE comparison (Linear vs Random Forest) | ![MAE comparison](figures/model_mae_compare.png) |
-| R² comparison (Linear vs Random Forest) | ![R² comparison](figures/model_r2_compare.png) |
-| Random Forest residuals | ![Residuals](figures/rf_residuals.png) |
-| Feature importances (Random Forest) | ![Feature Importances](figures/rf_feature_importances.png) |
+## 📊 Selected Visuals
+| Insight | Chart |
+|---|---|
+| MAE comparison (Linear vs Random Forest) | ![MAE comparison](figures/model_mae_compare.png) |
+| R² comparison (Linear vs Random Forest) | ![R² comparison](figures/model_r2_compare.png) |
+| Random Forest residuals | ![Residuals](figures/rf_residuals.png) |
+| Feature importances (Random Forest) | ![Feature Importances](figures/rf_feature_importances.png) |
+| Neighborhood average price differences | ![Neighborhood Avg Price](figures/neighborhood_avg_price.png) |
 
 ---
 
