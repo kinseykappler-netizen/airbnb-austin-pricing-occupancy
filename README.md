@@ -38,4 +38,17 @@ This project highlights the main levers Airbnb hosts can pull to optimize pricin
 ---
 
 ## 📁 Repo Structure
-(…keep your existing structure section here…)
+```text
+data/
+  RAW/           # (ignored) raw downloads
+  PROCESSED/     # cleaned/engineered files (e.g., listings_features.csv)
+figures/         # exported charts
+models/          # serialized models (large .pkl files, optional in Git)
+notebooks/
+  01_eda.ipynb       # exploratory data analysis
+  02_model_price.ipynb # feature engineering + ML models
+reports/
+  ai_summaries.md  # executive summary, host briefing, traveler personas
+README.md          # this file
+requirements.txt   # project dependencies
+
